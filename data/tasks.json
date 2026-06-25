@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Implement User Authentication API",
+    "dueDate": "",
+    "description": "Create secure login and registration endpoints using JWT-based authentication.",
+    "priority": "urgent",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Create login endpoint",
+      "Create register endpoint",
+      "Add JWT validation middleware"
+    ],
+    "status": "in-progress"
+  },
+  {
+    "title": "Fix responsive layout on dashboard",
+    "dueDate": "",
+    "description": "Dashboard UI breaks on mobile devices and needs layout adjustments.",
+    "priority": "medium",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Fix CSS grid issues",
+      "Test on mobile breakpoints"
+    ],
+    "status": "to-do"
+  },
+  {
+    "title": "Add password reset functionality",
+    "dueDate": "",
+    "description": "Allow users to reset their password via email link.",
+    "priority": "urgent",
+    "category": "user story",
+    "assignedTo": "",
+    "subtasks": [
+      "Create reset token system",
+      "Send reset email",
+      "Build reset password page"
+    ],
+    "status": "in-progress"
+  },
+  {
+    "title": "Improve API performance",
+    "dueDate": "",
+    "description": "Optimize database queries and reduce response time for core endpoints.",
+    "priority": "medium",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Analyze slow queries",
+      "Add indexes",
+      "Optimize endpoints"
+    ],
+    "status": "await-feedback"
+  },
+  {
+    "title": "Create user onboarding flow",
+    "dueDate": "",
+    "description": "Design and implement onboarding steps for new users after registration.",
+    "priority": "medium",
+    "category": "user story",
+    "assignedTo": "",
+    "subtasks": [
+      "Design onboarding screens",
+      "Implement step navigation"
+    ],
+    "status": "to-do"
+  },
+  {
+    "title": "Fix broken logout behavior",
+    "dueDate": "",
+    "description": "Users are not properly logged out in some edge cases.",
+    "priority": "urgent",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Investigate session handling",
+      "Fix token invalidation"
+    ],
+    "status": "done"
+  },
+  {
+    "title": "Implement role-based access control",
+    "dueDate": "",
+    "description": "Add admin and user roles with different permissions.",
+    "priority": "urgent",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Define roles",
+      "Implement permission checks",
+      "Update API guards"
+    ],
+    "status": "to-do"
+  },
+  {
+    "title": "Write user guide documentation",
+    "dueDate": "",
+    "description": "Create a simple guide for end users explaining main features.",
+    "priority": "low",
+    "category": "user story",
+    "assignedTo": "",
+    "subtasks": [
+      "Write feature descriptions",
+      "Add screenshots"
+    ],
+    "status": "in-progress"
+  },
+  {
+    "title": "Refactor frontend state management",
+    "dueDate": "",
+    "description": "Replace legacy state handling with modern centralized store approach.",
+    "priority": "medium",
+    "category": "technical task",
+    "assignedTo": "",
+    "subtasks": [
+      "Analyze current state flow",
+      "Introduce store architecture",
+      "Migrate components"
+    ],
+    "status": "to-do"
+  },
+  {
+    "title": "Improve search functionality",
+    "dueDate": "",
+    "description": "Enhance search accuracy and add filtering options.",
+    "priority": "medium",
+    "category": "user story",
+    "assignedTo": "",
+    "subtasks": [
+      "Implement filters",
+      "Improve ranking algorithm"
+    ],
+    "status": "await-feedback"
+  }
+]

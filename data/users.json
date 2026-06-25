@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Miller",
+    "email": "john.miller@example.com",
+    "phone": "+1-415-238-9045",
+    "password": "12345678"
+  },
+  {
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "phone": "+1-212-555-0198",
+    "password": "12345678"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "phone": "+1-305-778-4432",
+    "password": "12345678"
+  },
+  {
+    "name": "Sarah Davis",
+    "email": "sarah.davis@example.com",
+    "phone": "+1-602-341-8890",
+    "password": "12345678"
+  },
+  {
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "phone": "+1-713-992-1104",
+    "password": "12345678"
+  },
+  {
+    "name": "Jessica Taylor",
+    "email": "jessica.taylor@example.com",
+    "phone": "+1-202-468-7731",
+    "password": "12345678"
+  },
+  {
+    "name": "Daniel Anderson",
+    "email": "daniel.anderson@example.com",
+    "phone": "+1-312-667-9041",
+    "password": "12345678"
+  },
+  {
+    "name": "Olivia Thomas",
+    "email": "olivia.thomas@example.com",
+    "phone": "+1-718-903-5520",
+    "password": "12345678"
+  },
+  {
+    "name": "James Martinez",
+    "email": "james.martinez@example.com",
+    "phone": "+1-646-221-7788",
+    "password": "12345678"
+  },
+  {
+    "name": "Sophia Garcia",
+    "email": "sophia.garcia@example.com",
+    "phone": "+1-480-559-3312",
+    "password": "12345678"
+  }
+]
